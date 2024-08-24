@@ -30,7 +30,7 @@ I'm a passionate Software Development Engineer with extensive experience in buil
 - Social Networking Platform
 - Influencer Marketing Tool
 - Python Stripe Integration Library
-- Business Information Platform (similar to Crunchbase)
+- Business Information Platform
 
 ### 📌 Mantra Labs
 - US Stock Exchange Platform
