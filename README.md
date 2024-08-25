@@ -19,7 +19,7 @@ I'm a passionate Software Development Engineer with extensive experience in buil
 
 ---
 
-## 🛠️ Notable Projects
+## 🛠️ Work Experiences
 
 ### 📌 Country Delight
 - Digital Consumer Platform for Dairy Products
