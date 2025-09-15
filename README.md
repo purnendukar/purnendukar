@@ -1,21 +1,24 @@
 # 👋 Hi, I'm Purnendu Kar
 
-### 🚀 Software Development Engineer | Backend Developer | System Design Enthusiast
+### 🚀 Software Development Engineer | Backend Developer 
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Software Development Engineer with extensive experience in building scalable backend systems, optimizing database performance, and implementing efficient API solutions. My work spans various industries, including mental health, video streaming, social media, and more. I take pride in solving complex challenges and delivering high-quality software.
+I’m a **Backend Developer** with 6+ years of experience building **scalable systems, high-performance APIs, and optimised databases**.  
+I’ve worked across diverse domains — from **e-commerce and fintech** to **mental health, video streaming, and social platforms**.  
+
+I thrive on solving **complex system design challenges**, improving performance, and creating impactful products that scale.  
 
 ### 🔧 Tech Stack
-
-- **Languages:** Python
-- **Frameworks:** Django, Django REST Framework
-- **Databases:** PostgreSQL, MySQL
-- **Libraries:** Numpy, Pandas
-- **Tools & Platforms:** AWS, Docker, Redis, Kafka, Terraform, S3, SQS
-- **APIs & Integrations:** Stripe, RevenueCat, Firebase (FCM Notifications)
+- **Languages:** Python, Go, Java 
+- **Frameworks:** Django, Django REST Framework, Flask, FastAPI, Spring 
+- **Databases:** PostgreSQL, MySQL, Redis, NoSQL  
+- **Tools & Platforms:** AWS, Docker, Terraform, GitHub Actions, CircleCI, Bitbucket  
+- **Messaging & Queues:** Kafka, SQS  
+- **Libraries:** Pandas, Numpy  
+- **APIs & Integrations:** Stripe, RevenueCat, Firebase (FCM Notifications)  
 
 ---
 
@@ -43,6 +46,8 @@ I'm a passionate Software Development Engineer with extensive experience in buil
 
 ![Purnendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=purnendukar&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purnendukar&layout=compact&theme=radical)  
+
 ---
 
 ## 📫 How to Reach Me
@@ -54,4 +59,4 @@ I'm a passionate Software Development Engineer with extensive experience in buil
 
 ### ⚡ Fun Fact
 
-I love diving into complex systems and optimizing them for peak performance. Whether it's reducing API response times or designing scalable databases, I'm always up for a challenge!
+I love diving into complex systems and optimising them for peak performance. Whether it's reducing API response times or designing scalable databases, I'm always up for a challenge!
